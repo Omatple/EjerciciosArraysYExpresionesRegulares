@@ -1,0 +1,10 @@
+
+
+java:S1192"]Define a constant instead of duplicating this literal " ERROR. Intentelo de nuevo. " 3 times.(¿õÂÌúÿÿÿÿ8µ ¿úĞ1
+Ÿ
+java:S1192"Define a constant instead of duplicating this literal "----------------------------------------------------------------" 5 times.(Á”¦ô8µ ¿úĞ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ€ªûÿÿÿÿ8¶ ¿úĞ1
+u
+java:S3776©"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ñ»©¿ÿÿÿÿÿ8‚£¿úĞ1
+Q
+java:S1128"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜8”£¿úĞ1

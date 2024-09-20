@@ -1,0 +1,14 @@
+
+Ø
+java:S1192"›Define a constant instead of duplicating this literal "------------------------------------------------------------------------------------------" 4 times.( ÒÉJ$2a56537d-16d6-4bee-9868-5c0e82e252f1
+¤
+java:S1488"hImmediately return this expression instead of assigning it to the temporary variable "formatoCortoAMPM".(ÏĞ´ÃJ$d9bc6f6c-9e71-4119-9575-b3391b8a0d65
+©
+java:S1488 "hImmediately return this expression instead of assigning it to the temporary variable "formatoLargoAMPM".(ÙèÑÓøÿÿÿÿJ$fb410307-52c0-4e02-8c34-acb8f0cf9c2b
+£
+java:S1488%"gImmediately return this expression instead of assigning it to the temporary variable "formatoCorto24h".(äãº»J$0bb5ade9-2f93-465c-9fe2-d3eb101e0e61
+¨
+java:S1488*"gImmediately return this expression instead of assigning it to the temporary variable "formatoLargo24h".(ËºşŠøÿÿÿÿJ$6c94d1b3-7ac7-43bd-89a2-8dcb0c695328
+¦
+java:S1488/"jImmediately return this expression instead of assigning it to the temporary variable "formatoTextoTiempo".(Éïµ»J$84849d4a-1006-462a-8bf9-bc99bc2a6cc7
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔĞjJ$a205238d-685d-4e54-b634-74fdf2432c26
